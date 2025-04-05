@@ -1,0 +1,48 @@
+# Core
+torch
+torchvision
+numpy
+pillow
+matplotlib
+opencv-python-headless
+tqdm
+
+# Text Generation (LLM)
+transformers
+sentence-transformers
+huggingface-hub
+
+# LangChain Orchestration
+langchain
+langchain-core
+langchain-community
+langchain-huggingface
+langgraph  # Si tu choisis de faire du multi-agent
+langchain-google-genai  # Optionnel
+langchain-groq
+
+# Voice Synthesis (Open Source)
+edge-tts
+scipy  # Ou coqui-tts si tu préfères une alternative
+gtts
+
+# Video Generation
+moviepy
+diffusers
+accelerate
+safetensors
+opencv-python
+
+# API & Utils
+Flask
+flask-cors
+python-dotenv
+
+# Monitoring (Optionnel mais recommandé)
+langsmith
+
+# Jupyter (pour les tests locaux)
+notebook
+nbconvert
+nbformat
+nbimporter

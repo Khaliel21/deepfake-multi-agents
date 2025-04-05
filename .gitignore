@@ -1,0 +1,40 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+*.sqlite3
+.env
+*.env
+
+# === Virtual Environments ===
+.venv/
+env/
+venv/
+ENV/
+.Python
+
+# === OS Files ===
+.DS_Store
+Thumbs.db
+
+# === Audio/Video output ===
+data/*.mp3
+data/*.mp4
+data/*.wav
+
+# === VSCode ===
+.vscode/
+
+# === LangChain traces ===
+.langchain/
+
+# === PyCharm ===
+.idea/
+
+# === LangSmith ===
+*.jsonl
