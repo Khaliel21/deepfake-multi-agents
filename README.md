@@ -2,9 +2,6 @@
 
 ![Deep Fake Agent Banner](./assets\banner.png)
 
-# 🤖 Deep Fake Agent · Multi-Agent GenAI Pipeline
-
-![Deep Fake Agent Banner](./multi-agent-banner.png)
 
 > A powerful and modular multi-agent system that simulates the creation and detection of synthetic video content using GenAI tools like LangGraph, LangChain, HuggingFace, and more. Built for research, prototyping, and real-world experimentation. 🧠🎥
 
